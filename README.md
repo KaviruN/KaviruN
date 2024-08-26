@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, Im Kaviru Nethsara <img width="60" src = "https://c.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif"></h1>
 <img align="right" alt="Coding" width="400" src ="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Hacker">
 <p align="right"> <img src="https://visitcount.itsvg.in/api?id=KaviruN&icon=5&color=1" alt="KaviruN" /></a></p>
+
 ## ⭕ About Me
 
 - 🌱 I’m currently learning **Python , Linux , Shell , Html , PHP , Java , JS , CSS , C++**
