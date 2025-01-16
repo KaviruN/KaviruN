@@ -1,29 +1,23 @@
 <img height="200" width="100%" src ="https://raw.githubusercontent.com/KaviruN/KaviruN/main/github-header-image.png"/>
-<h1 align="center">Hi 👋, Im Kaviru Nethsara <img width="60" src = "https://c.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif"></h1>
-<img align="right" alt="Coding" width="400" src ="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Hacker">
-<p align="right"> <img src="https://visitcount.itsvg.in/api?id=KaviruN&icon=5&color=1" alt="KaviruN" /></a></p>
+<h1 align="center">Hi 👋, I'm Kaviru <img width="60" src = "https://c.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif"></h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavirun&label=Profile%20views&color=0e75b6&style=flat" alt="kavirun" /> </p>
 
-## ⭕ About Me
+- 🔭 I’m currently working on [MindEase](https://mind-ease-3781ff30e9c9.herokuapp.com/)
 
-- 🌱 I’m currently learning **Python , Linux , Shell , Html , PHP , Java , JS , CSS , C++**
+- 🌱 I’m currently learning **React,TypeScript**
 
-- 🤝 I’m looking for help
+- 📫 How to reach me **kavirunethsara1@outlook.com**
 
-- 💬 Ask me about **I like help you.**
+- ⚡ Fun fact **Im Student**
 
-- 📫 How to reach me **kavirunethsara1@outlook.com.com**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-- ⚡ Fun fact **I am Student**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavirun&show_icons=true&locale=en&layout=compact" alt="kavirun" /></p>
 
-## ☯ Languages
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-## 📊 My Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavirun&show_icons=true&locale=en" alt="kavirun" /></p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KaviruN&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaviruN&layout=compact&theme=radical&hide_border=true" /></a> |
-| ------------- | ------------- |
-    
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KaviruN&theme=radical&hide_border=false" alt="KaviruN" /></p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KaviruN&theme=radical&no-frame=false&no-bg=true&margin-w=4)
