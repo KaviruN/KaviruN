@@ -1,8 +1,9 @@
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ###
 
-<h1 align="center">😎 Hello I'm Kaviru Nethsara</h1>
+<div><h1 align="center">😎 Hello I'm Kaviru Nethsara</h1><img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /></div>
+<br>
 
 ###
 
@@ -27,8 +28,9 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" alt="sass logo"  />
 </div>
+<br>
 
-###
+
 
 <div align="center">
   <a href="www.linkedin.com/in/kaviru-n" target="_blank">
@@ -39,6 +41,7 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
 </div>
+<br clear="both">
 
 ###
 
