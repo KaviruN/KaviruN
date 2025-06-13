@@ -39,10 +39,9 @@
   <a href="kavirunethsara@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
-  
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4657514" style='border:none;'></iframe>
 </div>
 <br clear="both">
-![tryhackme stats](https://raw.githubusercontent.com/KaviruN/KaviruN/master/assets/thm_propic.png)
 ###
 
 <div align="center">
