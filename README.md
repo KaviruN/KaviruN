@@ -39,14 +39,19 @@
   <a href="kavirunethsara@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
-  <a href="https://tryhackme.com/p/KaviruN" target="_blank">
-    <img src="https://raw.githubusercontent.com/KaviruN/KaviruN/refs/heads/main/assets/tryhackme-badge.png" alt="Tryhackme logo"  />
-  </a>
+ 
 </div>
 <br clear="both">
-###
+
+
+
 
 <div align="center">
+    <a href="https://tryhackme.com/p/KaviruN" target="_blank" >
+    <img src="https://raw.githubusercontent.com/KaviruN/KaviruN/refs/heads/main/assets/tryhackme-badge.png" alt="Tryhackme logo"  />
+    </a>
+   <br clear="both">
+   <br clear="both">
   <img src="https://profile-counter.glitch.me/KaviruN/count.svg?"  />
 </div>
 
