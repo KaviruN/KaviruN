@@ -52,7 +52,7 @@
     </a>
    <br clear="both">
    <br clear="both">
-  <img src="https://profile-counter.glitch.me/KaviruN/count.svg?"  />
+  <img src="https://profile-count.kaviru.me/KaviruN/count.svg"  />
 </div>
 
 ###
