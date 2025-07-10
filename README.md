@@ -1,83 +1,82 @@
+<h1 align="center">😎 Hello, I'm Kaviru Nethsara</h1>
 
-
-###
-
-<div><h1 align="center">😎 Hello I'm Kaviru Nethsara</h1><img align="right" width="150" src="https://i.imgflip.com/65efzo.gif"  /></div>
 <br>
 
-###
+<p align="center">
+  <img height="150" src="https://github.com/KaviruN/KaviruN/blob/6f51fcb0c7dc823b71647626e40bf937b54c9e89/assets/naruto.gif" alt="Cool gif"/>
+  <img height="150" src="https://www.gifcen.com/wp-content/uploads/2022/09/sharingan-gif-7.gif" alt="Sharingan gif"/>
+</p>
+
+<br><br>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" alt="git logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" alt="github logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="35" alt="django logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="35" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" alt="JavaScript" />
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" alt="TypeScript" />
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" alt="React" />
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" alt="HTML5" />
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" alt="CSS3" />
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" alt="Python" />
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" alt="Git" />
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" alt="GitHub" />
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="35" alt="Django" />
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="35" alt="Sass" />
 </div>
-<br>
 
-
+<br><br>
 
 <div align="center">
-  <a href="www.linkedin.com/in/kaviru-n" target="_blank">
-    <img width="100" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" width="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/kaviru-n" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="kavirunethsara@outlook.com" target="_blank">
-    <img width="100" src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" width="35" alt="microsoft-outlook logo"  />
-  </a>
- 
-</div>
-<br clear="both">
-
-
-
-
-<div align="center">
-    <a href="https://tryhackme.com/p/KaviruN" target="_blank" >
-    <img src="https://raw.githubusercontent.com/KaviruN/KaviruN/refs/heads/main/assets/tryhackme-badge.png" alt="Tryhackme logo"  />
-    </a>
-   <br clear="both">
-   <br clear="both">
-  <img src="https://profile-count.kaviru.me/KaviruN/count.svg"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaviruN&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" width="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaviruN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" width="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" width="223" src="https://www.gifcen.com/wp-content/uploads/2022/09/sharingan-gif-7.gif"  />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/f1r9d11aorxmvcbang9yo4lf1">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=f1r9d11aorxmvcbang9yo4lf1&count=3&unique=true" alt="Spotify recently played"  />
+  <a href="mailto:kavirunethsara@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" alt="Outlook"/>
   </a>
 </div>
 
-###
+<br><br>
 
-<br clear="both">
+<div align="center">
+  <a href="https://tryhackme.com/p/KaviruN" target="_blank">
+    <img src="https://raw.githubusercontent.com/KaviruN/KaviruN/refs/heads/main/assets/tryhackme-badge.png" alt="TryHackMe badge"/>
+  </a>
+  <br>
+  <img src="https://profile-count.kaviru.me/KaviruN/count.svg" alt="Profile views"/>
+</div>
 
-<img src="https://raw.githubusercontent.com/KaviruN/KaviruN/output/snake.svg" alt="Snake animation" />
+<br><br>
 
-###
+<div align="center">
+  <a href="https://leetcode.com/u/kavirun/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/kavirun?theme=dark&ext=contest" alt="LeetCode Stats" width="400" height="195"/>
+  </a>
+</div>
+
+<br><br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaviruN&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&hide_border=false" width="400" height="195" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaviruN&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=radical&hide_border=false" width="400" height="195" alt="Top Languages"/>
+</div>
+
+<br><br>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/f1r9d11aorxmvcbang9yo4lf1" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=f1r9d11aorxmvcbang9yo4lf1&count=3&unique=true" alt="Spotify Recently Played"/>
+  </a>
+</div>
+
+<br><br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KaviruN/KaviruN/output/snake.svg" alt="Snake animation"/>
+</div>
