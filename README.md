@@ -48,7 +48,7 @@
 
 <div align="center">
   <a href="https://tryhackme.com/p/KaviruN" target="_blank">
-    <img src="https://raw.githubusercontent.com/KaviruN/KaviruN/refs/heads/main/assets/tryhackme-badge.png" alt="TryHackMe badge"/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/KaviruN.png" alt="TryHackMe badge"/>
   </a>
   <br>
   <img src="https://profile-count.kaviru.me/KaviruN/count.svg" alt="Profile views"/>
