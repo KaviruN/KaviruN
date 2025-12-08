@@ -6,6 +6,9 @@ I'm undergraduate passionate about coding, cybersecurity, and building cool proj
 ---
 
 ## 🚀 Skills & Interests
+
+<img src="https://github.com/KaviruN/KaviruN/blob/6f51fcb0c7dc823b71647626e40bf937b54c9e89/assets/naruto.gif" alt="Naruto" align="right" width="30%"/>
+
 - 🐍 Python  
 - 🔐 Penetration Testing
 - 📊 Data & frequency analysis  
