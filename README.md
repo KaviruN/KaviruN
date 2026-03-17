@@ -35,6 +35,6 @@ Here are some things I like working on:
 - Contribute to open-source projects  
 
 ## About Me
-- In to Anime - Nuruto is the favorite 
+- In to Anime - Naruto is the favorite 
 - I love listing to Music
 - Love to use my Brain Fully until it hurt - coding problomes, CTF
