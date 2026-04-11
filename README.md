@@ -8,6 +8,8 @@ I am a first-year Cyber Security undergraduate based in Sri Lanka, focused on th
 
 ### 🚀 Tech Stack & Interests
 
+<img src="https://github.com/KaviruN/KaviruN/blob/6f51fcb0c7dc823b71647626e40bf937b54c9e89/assets/naruto.gif" alt="Naruto" align="right" width="30%"/>
+
 | Category | Skills |
 | :--- | :--- |
 | **Languages** | Python, Java , JavaScript |
