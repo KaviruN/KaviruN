@@ -58,7 +58,7 @@ I am a first-year Cyber Security undergraduate based in Sri Lanka, focused on th
 ---
 
 🌐 **Social**
-<p align="left">
+<p align="enter">
 <a href="https://linkedin.com/in/kaviru-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaviru-n" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kavirun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kavirun" height="30" width="40" /></a>
 <a href="https://tryhackme.com/p/KaviruN" target="blank"><img align="center" src="https://raw.githubusercontent.com/KaviruN/KaviruN/refs/heads/main/assets/Tryhackme--Streamline-Simple-Icons.svg" alt="kavirun" height="30" width="40" /></a>
