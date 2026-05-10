@@ -44,7 +44,7 @@ I am a first-year Cyber Security undergraduate based in Sri Lanka, focused on th
   - Web Exploitation basics  
 - 🏅 Earned 17 badges with consistent learning streaks  
 - 🚩 PicoCTF Player:
-  - Solved 39 Easy and 28 Medium challenges  
+  - Solved 50+ challenges  
 - 🏁 Member of ExploitSyndicate CTF team
 
 ---
