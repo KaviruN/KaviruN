@@ -37,7 +37,7 @@ I am a first-year Cyber Security undergraduate based in Sri Lanka, focused on th
 
 ### 🧪 Cybersecurity Practice & CTFs
 
-- 🎯 Active on TryHackMe — ranked within top ~90k globally  
+- 🎯 Active on TryHackMe — ranked within top 4% globally  
 - 🧠 Completed 100+ rooms covering:
   - Linux & Privilege Escalation  
   - Networking & Enumeration  
