@@ -23,7 +23,7 @@ and write about it. Currently exploring bug bounty — not for the money, for th
 ### 📚 Featured Projects
 
 * **🛡️ PixelGuard** - Image encryption tool exploring cryptography.
-* **✍️ CTF Writeups Blog** - 28+ writeups documenting my journey. [blog.kaviru.me](https://blog.kaviru.me)
+* **✍️ CTF Writeups Blog** - 28+ writeups documenting my journey. [blog](https://kavirun.github.io/blog)
 * **⚙️ Automation Tools** - Python scripts for recon and repetitive tasks.
 
 ---
