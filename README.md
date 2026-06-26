@@ -1,8 +1,9 @@
-# 👋 Hi, I’m Kaviru Nethsara (@darkDuchiha)
+# hey, I'm Kaviru Nethsara (@darkDuchiha)
 
-> "Pushing my brain to the limit—one CTF at a time."
+> "Not chasing titles. Chasing understanding."
 
-I am a first-year Cyber Security undergraduate based in Sri Lanka, focused on the intersection of **Cybersecurity**, **AI**, and **Quantum Computing**. When I'm not dual-booting into Kali Linux or solving university modules, I'm likely grinding in a CTF or watching Naruto.
+Cybersecurity undergrad from Sri Lanka. I grind CTFs, break things to learn how they work,
+and write about it. Currently exploring bug bounty — not for the money, for the hunt.
 
 ---
 
@@ -12,46 +13,43 @@ I am a first-year Cyber Security undergraduate based in Sri Lanka, focused on th
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | Python, Java , JavaScript |
-| **Cybersecurity** | Penetration Testing, Purple Teaming |
-| **Emerging Tech** | AI/ML Integration, Quantum Computing Research |
-| **Other** | Fullstack Development, Arduino Coding |
+| **Languages** | Python, Java, JavaScript |
+| **Cybersecurity** | Web Exploitation, Penetration Testing, Bug Bounty |
+| **Tools** | Burp Suite, Nmap, Metasploit, Gobuster |
+| **Other** | Fullstack basics, Arduino, Python automation |
 
 ---
 
 ### 📚 Featured Projects
 
-* **🛡️ PixelGuard** - An image encryption tool exploring the depths of cryptography.
-* **✍️ Personal Blog** - Documenting my CTF journey and write-ups (Built with Jekyll/Chirpy).
-* **⚙️ Automation Tools** - Python scripts for streamlining repetitive tasks.
-
----
-
-### 📈 Current Goals
-
-- [ ] Advanced Cyber integration (Purple Teaming)
-- [ ] In-depth research on Quantum Computing's with AI
-- [ ] Contributing to Open Source security tools
+* **🛡️ PixelGuard** - Image encryption tool exploring cryptography.
+* **✍️ CTF Writeups Blog** - 28+ writeups documenting my journey. [blog.kaviru.me](https://blog.kaviru.me)
+* **⚙️ Automation Tools** - Python scripts for recon and repetitive tasks.
 
 ---
 
 ### 🧪 Cybersecurity Practice & CTFs
 
-- 🎯 Active on TryHackMe — ranked within top 4% globally  
-- 🧠 Completed 100+ rooms covering:
-  - Linux & Privilege Escalation  
-  - Networking & Enumeration  
-  - Web Exploitation basics  
-- 🏅 Earned 17 badges with consistent learning streaks  
-- 🚩 PicoCTF Player:
-  - Solved 50+ challenges  
-- 🏁 Member of ExploitSyndicate CTF team
+- 🎯 TryHackMe — **top 2% globally** · 187+ rooms completed
+- 🧠 Rooms covering web exploitation, privesc, networking, enumeration
+- 🏅 17 badges · consistent learning streak
+- 🚩 PicoCTF — **81+ challenges solved**
+- 🏁 Member of **ExploitSyndicate** CTF team
+- 🐛 Bug bounty hunting — starting post-exams
+
+---
+
+### 📈 Current Goals
+
+- [ ] First bug bounty report — valid or duplicate, doesn't matter
+- [ ] Go deeper on web exploitation
+- [ ] Keep the writeup streak going
+- [ ] Contribute to an open source security tool
 
 ---
 
 ### ⚡ Fun Facts
 
-- 🍥 Huge **Naruto** fan (explains the alias!)
-- 🎧 Music is my fuel for long coding sessions.
-- 🏁 Member of the **ExploitSyndicate** CTF team.
-
+- 🍥 Huge **Naruto** fan (explains the alias)
+- 🎧 Music fuels the long sessions
+- 🏁 ExploitSyndicate CTF team member
